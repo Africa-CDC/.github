@@ -1,5 +1,4 @@
-# The Africa CDC Institute of Pathogen Genomics (IPG)
-
+# Welcome to @Africa CDC Institute of Pathogen Genomics (IPG)!
 
 ## Who we are 
 
@@ -7,13 +6,11 @@ The [Africa CDC Institute of Pathogen Genomics](https://ipg.africacdc.org) was l
 
 IPG is supporting a continental coordinated approach to maximize the benefits of pathogen genomics for more effective outbreak preparedness, prevention and response, and for the control and elimination of endemic diseases in Africa. IPG operates through five Africa CDC’s Regional Collaboration Centers (RCCs) and its Regional Integrated Surveillance and Laboratory Network (RISLNET). The aim is to coordinate a network of NPHIs, academic/research institutions, private and public laboratories, and centers of excellence to support prevention, rapid detection, and response to current and emerging public health threats.
 
+# Get Involved
 
+- 👩‍💻 Visit us at [`Africa CDC IPG `](https://ipg.africacdc.org) and follow us on Twitter, [`@AfricaCDC`](https://twitter.com/AfricaCDC)
 
+# TO DO 
+- 🤗 develop community code of conduct]
 
-🌈 Contribution guidelines - how can the community get involved?
-
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For inquiries, please contact us at [`africapgi@africa-union.org`](mailto:africapgi@africa-union.org).
